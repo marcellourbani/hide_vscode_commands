@@ -1,0 +1,20 @@
+{
+  "name": "hide_vscode_commands",
+  "version": "1.0.0",
+  "description": "update package.json to hide from command palette all commands not added explicitly",
+  "bin": {
+    "hide_vscode_commands": "./index.js"
+  },
+  "keywords": [
+    "vscode"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcellourbani/hide_vscode_commands.git"
+  },
+  "author": {
+    "email": "marcello.urbani@gmail.com",
+    "name": "Marcello Urbani"
+  },
+  "license": "MIT"
+}
